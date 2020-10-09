@@ -1,0 +1,3 @@
+include ':skyutil'
+include ':app'
+rootProject.name = "SkyUtil"
